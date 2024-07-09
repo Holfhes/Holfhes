@@ -1,6 +1,6 @@
 - 👋 Salve, eu sou @Holfhes.
 - 👀 Eu estou interessado em aprender diversas linguagens.
-- 🌱 Atualmente estou aprendendo HTML, CSS e JS.
+- 🌱 Atualmente estou aprendendo Java.
 - 💞️ Eu busco colaborar em problemas ao meu alcance.
 - 📫 Como falar comigo: por enquanto não deixarei meios de contato :).
 
